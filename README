@@ -1,12 +1,1 @@
-Python library made to create a transition between Scratch coding and Python coding for children / beginers
-J'ai fait un peu de franglais m'en veux pas mdr mon cerveau est un peu cassé.
-Juste pour te dire que c'est que une toute première structure, j'ai réfléchi a plus de trucs que ça que je vais poser ici bas. 
-Je te laisse te familiariser avec ce début de code ! :)
-
-Pour la suite:
-- Meilleure gestion des events pygame sur le meme modèle que la gestion des collisions curseur-sprite
-- Possibilité de gérer + de sprites a l'écran
-- Toutes les méthodes de Sprite genre 'turn' -> fonctions de game (sur le meme modèle que 'move')
-^ Uniquement si cette façon de gérer te convient bien sur !!
-
-Hâte d'avoir ton feedback :)
+PRATCH
